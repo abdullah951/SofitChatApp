@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Crick</string>
+    <string name="some_error">ERROR</string>
+
+
+    <!--Title-->
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+
+    <!--error messages-->
+    <string name="error_no_daata">No Data Available 😓</string>
+    <string name="error_internet_connetion">No Internet Connection 😓</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="signup">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="chats">Chats</string>
+    <string name="friends">Friends</string>
+    <string name="country">Country</string>
+    <string name="type_message">Type Message</string>
+
+
+</resources>
